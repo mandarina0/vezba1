@@ -2,4 +2,8 @@
 int main()
 {
   printf("zdravo");
+    printf("zdravo");
+
+    printf("zdravo");
+
 }
